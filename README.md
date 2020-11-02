@@ -1,1 +1,1 @@
-#Static and dynamic resume
+# Dynamic resume

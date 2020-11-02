@@ -1,1 +1,1 @@
-# React_js
+#Static and dynamic resume
